@@ -8,9 +8,9 @@ To use the program:
   5) Generate refresh token on the TD Ameritrade developer website and enter the refresh token in Trader.py
   6) Enter account number in Trader.py
   
-  To do daily:
-    1) Enter the EMAs in EMA.json from the current trading day before the next trading day
-    2) Run the program before the market opens
-        To run the program, type the command 'python Trader.py'
+To do daily:
+  1) Enter the EMAs in EMA.json from the current trading day before the next trading day
+  2) Run the program before the market opens
+      To run the program, type the command 'python Trader.py'
         
         
